@@ -5,7 +5,7 @@
 <head runat="server">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HoTen_MSSV_MaDE</title>
+    <title>VoCongSinh_63051071062_001</title>
     <!-- Sinh viên ghi chú thông tin như cú pháp yêu cầu trong thẻ title-->
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
